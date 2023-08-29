@@ -12,12 +12,12 @@
             "longitude": "-59.84106970"
         },
         {
-            "id": "3656",
+            "id": "3656-2",
             "name": "Gran Buenos Aires",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
-            "state_code": "B",
+            "state_code": "GB",
             "type": "province",
             "latitude": "-37.20172850",
             "longitude": "-59.84106970"
@@ -57,18 +57,18 @@
         },
         {
             "id": "4880",
-            "name": "Ciudad Autónoma de Buenos Aires",
+            "name": "Ciudad Autonoma de Buenos Aires",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
-            "state_code": "C",
+            "state_code": "CABA",
             "type": "city",
             "latitude": "-34.60368440",
             "longitude": "-58.38155910"
         },
         {
             "id": "3642",
-            "name": "Córdoba",
+            "name": "Cordoba",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
@@ -90,7 +90,7 @@
         },
         {
             "id": "3654",
-            "name": "Entre Ríos",
+            "name": "Entre Rios",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
@@ -167,7 +167,7 @@
         },
         {
             "id": "3648",
-            "name": "Neuquén",
+            "name": "Neuquen",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
@@ -178,7 +178,7 @@
         },
         {
             "id": "3639",
-            "name": "Río Negro",
+            "name": "Rio Negro",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
@@ -266,7 +266,7 @@
         },
         {
             "id": "3637",
-            "name": "Tucumán",
+            "name": "Tucuman",
             "country_id": "11",
             "country_code": "AR",
             "country_name": "Argentina",
